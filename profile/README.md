@@ -15,4 +15,4 @@ Para contribuir com o projeto é simples! Verifique dentro do **readme** os sist
 
 ## Equipe
 
-- [@FelipeSz_19](https://github.com/FelipeSz19)
+- [@FelipeSz_19](https://github.com/FelipeRos19)
